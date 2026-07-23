@@ -22,7 +22,7 @@ Audited 3 websites in the same niche using Seobility.net and the Detailed SEO Ch
 Wrote and published a 1,250+ word blog post on getting a Digital Marketing internship certificate online, following the required keyword and branded-link guidelines.
 
 📄 File: `Task2/Task2_Blog_Post.docx`
-🔗 Live post: [paste your published blog URL here]
+
 
 ---
 
